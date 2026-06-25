@@ -87,31 +87,21 @@ document.addEventListener('DOMContentLoaded', () => {
     let timer;
 
     function goTo(idx) {
-      // Aktif slide'ı kapat
       slides[current].classList.remove('active');
       dots[current].classList.remove('active');
+      // Eski slide'ın yazılarını sıfırla
+      slides[current].querySelectorAll('.slide-brand, .slide-title').forEach(el => {
+        el.classList.remove('text-visible');
+      });
       current = idx;
-
-      // Yeni slide'ın yazılarını sıfırla (transition kapalıyken)
-      const newSlide = slides[current];
-      const texts = newSlide.querySelectorAll('.slide-brand, .slide-title');
-      texts.forEach(el => {
-        el.style.transition = 'none';
-        el.style.opacity = '0';
-        el.style.transform = 'translateY(18px)';
-      });
-
-      // Bir frame bekle, sonra aktif et
-      requestAnimationFrame(() => {
-        newSlide.classList.add('active');
-        dots[current].classList.add('active');
-        // Transition'ı geri aç ve animasyonu başlat
-        setTimeout(() => {
-          texts.forEach(el => {
-            el.style.transition = '';
-          });
-        }, 50);
-      });
+      slides[current].classList.add('active');
+      dots[current].classList.add('active');
+      // Yeni slide yazıları için kısa gecikme
+      setTimeout(() => {
+        slides[current].querySelectorAll('.slide-brand, .slide-title').forEach(el => {
+          el.classList.add('text-visible');
+        });
+      }, 100);
     }
 
     function next() {
@@ -121,6 +111,13 @@ document.addEventListener('DOMContentLoaded', () => {
     function startTimer() {
       timer = setInterval(next, 4000);
     }
+
+    // İlk slide yazılarını göster
+    setTimeout(() => {
+      slides[0].querySelectorAll('.slide-brand, .slide-title').forEach(el => {
+        el.classList.add('text-visible');
+      });
+    }, 100);
 
     dots.forEach((dot, i) => {
       dot.addEventListener('click', () => {

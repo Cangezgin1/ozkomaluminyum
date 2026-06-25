@@ -130,11 +130,11 @@ h1,h2,h3,h4{
   transform:translateY(18px);
   transition:opacity .6s ease, transform .6s ease;
 }
-.slide-brand{ transition-delay:.4s; }
-.slide-title{ transition-delay:.65s; }
+.slide-brand{ transition-delay:.2s; }
+.slide-title{ transition-delay:.4s; }
 
-.slide.active .slide-brand,
-.slide.active .slide-title{
+.slide-brand.text-visible,
+.slide-title.text-visible{
   opacity:1;
   transform:translateY(0);
 }

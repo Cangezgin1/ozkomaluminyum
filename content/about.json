@@ -1,0 +1,34 @@
+{
+  "page_title": "Hakkımızda",
+
+  "story_eyebrow": "Hikayemiz",
+  "story_title": "2022'den bu yana Avcılar'da cephe üretiyoruz",
+  "story_p1": "Özkom Alüminyum, 2022 yılında Avcılar/Ispartakule'de, kompozit panel cephe kaplama alanında kaliteli ve güvenilir hizmet eksikliğini gidermek amacıyla kuruldu. Kısa sürede konut projelerinden ticari binalara, endüstriyel tesislerden ofis yapılarına kadar geniş bir yelpazede iş ortaklığı kurduk.",
+  "story_p2": "Bugün; mimarlık ofisleri, müteahhitler ve bina sahipleriyle doğrudan çalışan, yerinde keşiften montaja kadar tüm süreci kendi ekibimizle yöneten bir cephe kaplama firmasıyız. Amacımız, her projede malzeme kalitesinden işçilik hassasiyetine kadar fark yaratmak.",
+  "story_badge_num": "2022",
+  "story_badge_lbl": "Kuruluş Yılı",
+
+  "values_eyebrow": "İlkelerimiz",
+  "values_title": "Bizi biz yapan değerler",
+  "values": [
+    { "title": "Misyonumuz", "text": "Her binaya, ihtiyacına uygun, dayanıklı ve estetik cephe çözümünü doğru fiyat ve zamanında teslimle sunmak." },
+    { "title": "Vizyonumuz", "text": "İstanbul genelinde kompozit cephe kaplama denince akla gelen, referanslarıyla güvenilirliğini kanıtlamış bir marka olmak." },
+    { "title": "Güvenilirlik", "text": "Verdiğimiz sözü tutar, teklif aşamasında konuştuğumuz fiyatı ve süreyi sonuna kadar koruruz." },
+    { "title": "Kalite", "text": "Sadece sertifikalı, test edilmiş kompozit panel ve alüminyum profil markalarıyla çalışırız." },
+    { "title": "Zamanında Teslim", "text": "Proje takvimine sadık kalır, gecikme riskini en aza indirecek şekilde planlama yaparız." },
+    { "title": "Müşteri Odaklılık", "text": "Her projeyi kendi binamızmış gibi ele alır, süreç boyunca şeffaf iletişim kurarız." }
+  ],
+
+  "diff_eyebrow": "Bizi Farklı Kılan",
+  "diff_title": "Tedarikten montaja tek elden kontrol",
+  "diff_text": "Aracı firmalara bağlı kalmadan, malzeme tedarikinden son montaj kontrolüne kadar her aşamayı kendi bünyemizde yönetiyoruz. Bu da hem maliyet avantajı hem de kalite güvencesi sağlıyor.",
+  "diff_check_1_title": "Deneyimli Uygulama Ekibi",
+  "diff_check_1_text": "Sahada yıllarını geçirmiş ustalarla çalışıyoruz.",
+  "diff_check_2_title": "Geniş Renk & Marka Portföyü",
+  "diff_check_2_text": "Farklı bütçe ve estetik beklentilere uygun seçenekler sunarız.",
+  "diff_check_3_title": "Avcılar Merkezli Hızlı Erişim",
+  "diff_check_3_text": "İstanbul genelindeki projelere kısa sürede keşif ve montaj desteği.",
+
+  "cta_title": "Bizimle çalışmaya hazır mısınız?",
+  "cta_text": "Projenizi anlatın, size en uygun kompozit panel ve uygulama planını birlikte oluşturalım."
+}

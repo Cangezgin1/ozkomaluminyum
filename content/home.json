@@ -1,0 +1,69 @@
+{
+  "hero_eyebrow": "Kompozit Panel & Cephe Sistemleri",
+  "hero_title_line": "Binanızın cephesi,",
+  "hero_title_em": "markanızın",
+  "hero_title_end": "ilk izlenimidir.",
+  "hero_sub": "Özkom Alüminyum olarak 2022'den bu yana kompozit panel kaplama, alüminyum doğrama ve mimari cephe sistemlerinde İstanbul genelinde uçtan uca profesyonel çözümler üretiyoruz.",
+  "hero_cta_primary": "Ücretsiz Keşif Talep Et",
+  "hero_cta_secondary": "Hizmetlerimiz",
+  "stat_1_num": "3+",
+  "stat_1_lbl": "Yıllık Tecrübe",
+  "stat_2_num": "100+",
+  "stat_2_lbl": "Tamamlanan Cephe",
+  "stat_3_num": "%100",
+  "stat_3_lbl": "Yerinde Üretim",
+
+  "marquee_items": [
+    "Kompozit Panel Kaplama",
+    "Alüminyum Doğrama",
+    "Cephe Giydirme Sistemleri",
+    "Yangın Yalıtımlı Paneller (A2)",
+    "3D Cephe Tasarımı",
+    "Anahtar Teslim Uygulama"
+  ],
+
+  "features_eyebrow": "Neden Özkom",
+  "features_title": "Cephenizi şansa bırakmayın",
+  "features_sub": "Tasarımdan montaja, malzeme seçiminden işçilik garantisine kadar her aşamayı kendi ekibimizle, tek elden yönetiyoruz.",
+  "features": [
+    { "title": "Geniş Renk & Doku Yelpazesi", "text": "Metalik, mat, ahşap desen ve özel renk seçenekleriyle mimari projenize uygun yüzey çözümü sunuyoruz." },
+    { "title": "A2 Yangın Sınıfı Panel", "text": "Yönetmeliklere uygun, yangına dayanıklı kompozit panel seçenekleriyle güvenli cepheler inşa ediyoruz." },
+    { "title": "Yerinde Ölçü & Proje Çizimi", "text": "Her cephe için özel ölçüm ve teknik çizim hazırlayarak milimetrik hassasiyetle üretim yapıyoruz." },
+    { "title": "Hızlı & Temiz Montaj", "text": "Deneyimli montaj ekibimizle binanızda işinizi aksatmadan, planlanan sürede teslim ediyoruz." },
+    { "title": "İşçilik Garantisi", "text": "Uyguladığımız her cephe sistemi yazılı garanti kapsamındadır; satış sonrası takibimiz devam eder." },
+    { "title": "Mimar & Müteahhit İş Birliği", "text": "Mimarlık ofisleri ve inşaat firmalarıyla proje bazlı, esnek çalışma modelleri kuruyoruz." }
+  ],
+
+  "about_teaser_eyebrow": "Hakkımızda",
+  "about_teaser_title": "Avcılar merkezli, İstanbul geneline hizmet veren cephe ekibi",
+  "about_teaser_text": "2022 yılında Avcılar/Ispartakule'de kurulan Özkom Alüminyum, kompozit panel cephe kaplama ve alüminyum doğrama alanında konut, ticari ve endüstriyel yapılara hizmet vermektedir. Kalite, zamanında teslim ve şeffaf fiyatlandırma ilkeleriyle çalışıyoruz.",
+  "about_teaser_badge_num": "2022",
+  "about_teaser_badge_lbl": "Kuruluş Yılı",
+  "about_teaser_check_1_title": "Kendi Üretim & Montaj Ekibi",
+  "about_teaser_check_1_text": "Taşeron zincirine bağlı kalmadan, başından sonuna kontrol bizde.",
+  "about_teaser_check_2_title": "Şeffaf Fiyatlandırma",
+  "about_teaser_check_2_text": "Keşif sonrası net, sürpriz maliyetsiz teklif sunuyoruz.",
+  "about_teaser_cta": "Bizi Daha Yakından Tanıyın",
+
+  "swatch_eyebrow": "Malzeme & Renk Seçenekleri",
+  "swatch_title": "Her cepheye uygun yüzey, her projeye uygun renk",
+  "swatch_sub": "Düz renk, metalik ve ahşap desen kompozit panel seçenekleriyle mimari konseptinize tam uyum sağlıyoruz.",
+  "swatches": [
+    { "title": "Metalik Serisi", "text": "Bronz, gümüş, antrasit tonları" },
+    { "title": "Düz Renk Serisi", "text": "RAL renk kartelasına uygun" },
+    { "title": "Uygulama Örneği", "text": "Ticari bina cephe kaplaması" },
+    { "title": "Sıcak Ton Serisi", "text": "Kırmızı, kiremit, kahve tonları" }
+  ],
+
+  "process_eyebrow": "Çalışma Sürecimiz",
+  "process_title": "Keşiften teslime, dört adımda cephe çözümü",
+  "process_steps": [
+    { "title": "Yerinde Keşif", "text": "Binanızı ücretsiz yerinde inceliyor, ölçüm ve ihtiyaç analizini birlikte yapıyoruz." },
+    { "title": "Tasarım & Teklif", "text": "Renk, doku ve sistem seçimini netleştirip net fiyatlı teklifimizi sunuyoruz." },
+    { "title": "Üretim & Hazırlık", "text": "Onay sonrası panelleri projeye özel ölçülerde kesip montaja hazırlıyoruz." },
+    { "title": "Montaj & Teslim", "text": "Deneyimli ekibimizle uygulamayı tamamlayıp garanti belgenizle teslim ediyoruz." }
+  ],
+
+  "cta_band_title": "Projeniz için ücretsiz keşif planlayalım",
+  "cta_band_text": "Avcılar, Ispartakule ve İstanbul genelinde; konut, ofis ve ticari yapılarınız için hemen iletişime geçin."
+}

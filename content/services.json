@@ -1,0 +1,52 @@
+{
+  "page_title": "Hizmetlerimiz",
+
+  "intro_eyebrow": "Neler Yapıyoruz",
+  "intro_title": "Cephenin her aşamasında yanınızdayız",
+  "intro_text": "Kompozit panel kaplamadan alüminyum doğramaya, küçük ölçekli onarımdan büyük ölçekli cephe giydirme projelerine kadar geniş hizmet yelpazesi sunuyoruz.",
+
+  "service_1_tag": "01 — Ana Hizmet",
+  "service_1_title": "Kompozit Panel Cephe Kaplama",
+  "service_1_text": "Alüminyum kompozit panel (ACP) ile bina dış cephelerini estetik, hafif ve dayanıklı bir yüzeyle kaplıyoruz. Düz renk, metalik ve ahşap desen seçenekleriyle her mimari konsepte uyum sağlıyoruz.",
+  "service_1_check_1_title": "A2 Yangın Sınıfı Panel Seçenekleri",
+  "service_1_check_1_text": "Yönetmeliklere uygun, güvenli malzeme kullanıyoruz.",
+  "service_1_check_2_title": "Gizli & Görünür Montaj Sistemleri",
+  "service_1_check_2_text": "Projeye göre kaset veya vida bağlantılı uygulama.",
+
+  "service_2_tag": "02 — Doğrama Sistemleri",
+  "service_2_title": "Alüminyum Doğrama",
+  "service_2_text": "Pencere, kapı ve cephe doğramalarında ısı yalıtımlı alüminyum profil sistemleriyle hem enerji verimliliği hem de uzun ömürlü kullanım sağlıyoruz.",
+  "service_2_check_1_title": "Isı Yalıtımlı Profil Sistemleri",
+  "service_2_check_1_text": "Kış-yaz fark etmeksizin enerji tasarrufu sağlar.",
+  "service_2_check_2_title": "Özel Ölçü Üretim",
+  "service_2_check_2_text": "Standart dışı açıklıklar için projeye özel imalat.",
+
+  "service_3_tag": "03 — Sistem Cephe",
+  "service_3_title": "Cephe Giydirme Sistemleri",
+  "service_3_text": "Çok katlı ve büyük ölçekli yapılarda, taşıyıcı altyapıdan dış kaplamaya kadar komple cephe giydirme sistemleri kuruyoruz. Statik hesap ve rüzgar yükü analizleriyle güvenli uygulama garantisi veriyoruz.",
+  "service_3_check_1_title": "Taşıyıcı Altyapı Montajı",
+  "service_3_check_1_text": "Galvaniz çelik veya alüminyum karkas sistemleri.",
+  "service_3_check_2_title": "3D Cephe Görselleştirme",
+  "service_3_check_2_text": "Uygulama öncesi binanızın son halini görün.",
+
+  "service_4_tag": "04 — Servis",
+  "service_4_title": "Bakım & Onarım",
+  "service_4_text": "Mevcut kompozit panel cephelerde oluşan hasar, renk solması veya bağlantı sorunlarında yerinde tespit ve onarım hizmeti veriyoruz.",
+  "service_4_check_1_title": "Panel Değişimi & Renk Eşleştirme",
+  "service_4_check_1_text": "Mevcut cepheyle uyumlu malzeme tedariki.",
+  "service_4_check_2_title": "Periyodik Kontrol Hizmeti",
+  "service_4_check_2_text": "Bağlantı ve sızdırmazlık kontrolüyle uzun ömür.",
+
+  "materials_eyebrow": "Kullandığımız Malzemeler",
+  "materials_title": "Sertifikalı, test edilmiş kompozit panel markaları",
+  "materials_sub": "Projenize en uygun renk, doku ve performans değerine sahip paneli birlikte seçiyoruz.",
+  "materials": [
+    { "title": "Metalik Seri", "text": "Bronz, gümüş, antrasit" },
+    { "title": "Düz Renk Seri", "text": "RAL kartelasına uygun" },
+    { "title": "A2 Yangın Sınıfı", "text": "Yönetmeliğe uygun panel" },
+    { "title": "Özel Renk Üretimi", "text": "Talebe özel renk eşleştirme" }
+  ],
+
+  "cta_title": "Hangi hizmete ihtiyacınız olduğundan emin değil misiniz?",
+  "cta_text": "Bize binanızın fotoğrafını gönderin, size en uygun çözümü birlikte belirleyelim."
+}

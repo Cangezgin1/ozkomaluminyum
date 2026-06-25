@@ -1,0 +1,25 @@
+{
+  "page_title": "İletişim",
+
+  "card_phone_title": "Telefon",
+  "card_phone_text": "Sorularınız için bizi hemen arayın.",
+  "card_email_title": "E-posta",
+  "card_email_text": "Detaylı proje bilgisi için yazın.",
+  "card_address_title": "Adres",
+  "card_address_text": "Ispartakule, Avcılar / İstanbul",
+
+  "form_eyebrow": "Mesaj Gönderin",
+  "form_title": "Projenizi anlatın, size dönelim",
+  "form_text": "Formu doldurun, en kısa sürede sizinle iletişime geçelim. Acil durumlar için doğrudan WhatsApp veya telefon hattımızı kullanabilirsiniz.",
+
+  "map_eyebrow": "Konumumuz",
+  "map_title": "Bizi Avcılar / Ispartakule'de bulun",
+  "map_text": "Atölyemiz ve ofisimiz Ispartakule bölgesinde yer almaktadır. Randevu almak için önceden arayabilirsiniz.",
+  "map_check_1_title": "Ispartakule, Avcılar / İstanbul",
+  "map_check_1_text": "Açık adres talebiniz halinde telefonla iletilir.",
+  "map_check_2_title": "Hafta İçi 08:00 – 18:30",
+  "map_check_2_text": "Hafta sonu randevulu görüşme imkanı.",
+
+  "cta_title": "Hızlı cevap için WhatsApp'tan yazın",
+  "cta_text": "Fotoğraf ve ölçü paylaşarak ön fiyat bilgisi alabilirsiniz."
+}
